@@ -1,3 +1,5 @@
+* Preview sometimes doesn't work for some reason, but you should be able to see it once you download them. 
+
 XRP_modeling: builds mean reversion strategy on Ripple
 
 NQ_modeling: builds mean reversion strategy on Nasdaq 100 E-mini Futures
